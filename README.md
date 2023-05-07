@@ -2,7 +2,7 @@
 
 ## Teste-gitflow
 
-versão atual: 1.0.0
+versão atual: 1.0.1
 
 estou aqui fazendo a correção do arquivo readme.md
 
